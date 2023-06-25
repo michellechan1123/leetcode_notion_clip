@@ -1,5 +1,5 @@
 # Leetnode Notion Clip
 
-A pipeline to optimise my process of recording leetcode to Notion database (very time-consuming)
+A chrome extension to automatically clip solved Leetcode problems to Notion database
 
 ...In progress
